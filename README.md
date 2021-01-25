@@ -11,3 +11,4 @@
 
 ![growth mind](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
 
+A*growth mindset*meow
