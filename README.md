@@ -13,3 +13,4 @@
 
 *growth mindset* 
 
+[read-02a](https://khaledbassam424.github.io/Reading-notes/read-02a)
