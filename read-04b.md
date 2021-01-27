@@ -12,7 +12,7 @@ interesting, and user-friendly. it encompasses many of the traditional rules of 
 2. closing tag
 3. attributes
 
-![HTML ELEMENTS](html-element(1).png)
+![HTML ELEMENTS](https://www.tutorialrepublic.com/lib/images/html-element.png)
 
 
 **CSS ELEMENTS**
