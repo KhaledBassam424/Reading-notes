@@ -1,0 +1,10 @@
+**Comparison operators**
+You can compare a situation by comparing one value in the script to what expect it might be. the result will be a Boolean, True or False.
+
+**examples of comparison operators**
+1. is equal to "==", it compares two values to see if they are the same
+for example, 'Hello'='Goodbye' returns False
+
+2. is not equal to "!=" it compares two values to see if they are not the same
+3-
+4-
