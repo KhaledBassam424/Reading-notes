@@ -43,6 +43,6 @@ it allows you to compare the results of more than once comparison operator. For 
 
 **Example on WHILE loop*
 
-![WHILE loop](https://www.tutorialgateway.org/wp-content/uploads/JavaScript-For-Loop-1.png)
+![WHILE loop](https://www.tutorialgateway.org/wp-content/uploads/JavaScript-Do-While-Loop-2.png)
 
  
